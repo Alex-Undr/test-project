@@ -1,0 +1,17 @@
+{
+    "name": "sasha/test-project",
+    "description": "desc",
+    "type": "n",
+    "license": "n",
+    "authors": [
+        {
+            "name": "O Holub"
+        }
+    ],
+    "require": {},
+    "autoload" :{
+        "psr-4": {
+            "App\\" : "src/App"
+        }
+    }
+}
